@@ -1,0 +1,2 @@
+To run this project first create suitable environment with spacy 2.0
+.\resume_env\Scripts\activate
